@@ -21,7 +21,7 @@ export const products = [
     },
     {
         id: 5,
-        img: require('../src/assets/shop-logo.png'),
+        img: require('../src/assets/admin-panel.png'),
         link: 'https://goggle.com',
     },
     {
