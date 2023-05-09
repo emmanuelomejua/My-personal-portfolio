@@ -2,11 +2,11 @@ export const products = [
     {
         id: 1,
         img: require('../src/assets/admin-panel.png'),
-        link: 'https://goggle.com',
+        link: 'https://github.com/emmanuelomejua/Ecommerce-Admin-dashboard-templete-design.git',
     },
     {
         id: 2,
-        img: require('../src/assets/copaly-icon-logo.gif'),
+        img: require('../src/assets/gpt3.png'),
         link: 'https://copaly-app-dashboard.vercel.app',
     },
     {
@@ -21,7 +21,7 @@ export const products = [
     },
     {
         id: 5,
-        img: require('../src/assets/admin-panel.png'),
+        img: require('../src/assets/weda.png'),
         link: 'https://goggle.com',
     },
     {
