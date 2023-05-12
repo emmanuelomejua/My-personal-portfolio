@@ -45,6 +45,12 @@
 .a-desc{
     font-weight: 300;
 }
+
+.a-desc::first-letter{
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 12px;
+}
 .a-award{
     margin-top: 50px;
     display: flex;

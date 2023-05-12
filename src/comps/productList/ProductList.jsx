@@ -5,12 +5,11 @@ import { products } from '../../data'
 const ProductList = () => {
   return (
     <div className='pl'>
-      <h1 className='pl-title'>Tools, Innovation & Excellence</h1>
+      <h1 className='pl-title'>Tools, Innovation & Excellence is the keyword</h1>
       <div className='pl-texts'>
         
         <p className='pl-desc'>
-          Provides solutions with amazing tools and technologies.
-            Satisfies clients and build user friendly software systems
+          These are some of the projects I've done
         </p>
       </div>
       <div className='pl-list'>

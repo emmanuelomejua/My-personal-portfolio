@@ -17,6 +17,7 @@ const Toggle = () => {
       <img src={moon} alt='Dark' className='t-icon' onClick={()=>dispatch({type: 'DARK'})}/>
       {/* <button className='t-btn' onClick={handleClick} ></button> */}
     </div>
+
   )
 }
 

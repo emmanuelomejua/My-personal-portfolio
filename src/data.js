@@ -7,7 +7,7 @@ export const products = [
     {
         id: 2,
         img: require('../src/assets/gpt3.png'),
-        link: 'https://copaly-app-dashboard.vercel.app',
+        link: 'https://tourmaline-shortbread-3c5c7a.netlify.app/',
     },
     {
         id: 3,

@@ -17,6 +17,7 @@
     height: 40%;
     display: flex;
     flex-direction: column;
+    text-align: center;
     justify-content: space-between;
 }
 
@@ -34,6 +35,7 @@
 }
 .i-title-wrapper{
     height: 100%;
+    
     animation: move 10s ease-in-out infinite alternate;
 }
 @keyframes move {
@@ -52,6 +54,8 @@
 }
 
 .i-title-item{
+    display: flex;
+    justify-content: center;
     height: 50px;
     font-size: 30px;
     font-weight: bold;
